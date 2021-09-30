@@ -4,7 +4,3 @@
 # Introduction to Tensorflow 2
 Code related to the course "Introduction to Tensorflow for computer vision"
 
-
-```python
-print("hello")
-```
